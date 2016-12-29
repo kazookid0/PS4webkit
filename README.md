@@ -1,4 +1,3 @@
-![HotBath.jpg](https://mobilevrxxx.com/wp-content/uploads/2016/03/HotBath.jpg)
 # PS4Webkit
 
 An attempt to fabricate a webkit exploit for PS4 version 4.00 to 4.05, later ports to 3.xx may be possible
