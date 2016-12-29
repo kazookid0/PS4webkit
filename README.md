@@ -10,7 +10,7 @@ The plan is to develop a webkit/userland exploit with the help of the whole comm
 
 **But how can I contribute?**
 
-Simple, if you have any research, write-up's, CVE's, code or anything that could be useful to other contributors, commit it on the github or paste it into the comments on this thread.
+Simple, if you have any research, write-up's, CVE's, code or anything that could be useful to other contributors, commit it on the github or paste it into the comments on the PSXHAX thread.
 Fork the github, make your changes and then do a pull request to merge.
 
 **Are there any rules you need to follow?**
