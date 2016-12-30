@@ -1,8 +1,8 @@
+<p align="center">
 ![Optimized-Template.png](https://s30.postimg.org/7wes043ox/Untitled_1.png)
-#<center> PS4Webkit</center>
-<p align="justify">
+# PS4Webkit
+
  An attempt to fabricate a webkit exploit for PS4 version 4.00 to 4.05, later ports to 3.xx may be possible.
- <p>
 
 Presenting the PS4webkit project!
 
@@ -21,3 +21,4 @@ Just to keep all code clean and as stable as possible there are some thing's you
 Add credit's to your code (Full ASCII banners are not allowed, but a single line comment mentioning you is allowed if you have written a big piece of code)
 Don't commit code if you don't know what it does, seriously, leave it to the real devs (if any will ever join :p)
 Post research and code in their respective branch.
+<p>
