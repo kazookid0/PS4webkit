@@ -21,7 +21,3 @@ Add credit's to your code (Full ASCII banners are not allowed, but a single line
 Don't commit code if you don't know what it does, seriously, leave it to the real devs (if any will ever join :p)
 Post research and code in their respective branch.
 <p>
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
