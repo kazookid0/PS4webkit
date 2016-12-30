@@ -8,5 +8,8 @@ http://www.osvdb.org/
 http://www.cvedetails.com/vulnerability-list/vendor_id-6/Freebsd.html
 http://www.cvedetails.com/vulnerability-list/vendor_id-6/cvssscoremin-9/cvssscoremax-/Freebsd.html
 
+Here is the link that contains the tecnical analysis writen by lookout on the pegasus exploit:
+https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf
+Note that we have confirmed that this exploit works on frimware 4.01 and could possibly be used in the final webkit project.
 
 Reasearch Comes first 
