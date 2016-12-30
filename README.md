@@ -1,7 +1,8 @@
 ![Optimized-Template.png](https://s30.postimg.org/7wes043ox/Untitled_1.png)
 #<center> PS4Webkit</center>
-
-An attempt to fabricate a webkit exploit for PS4 version 4.00 to 4.05, later ports to 3.xx may be possible
+<p align="justify">
+ An attempt to fabricate a webkit exploit for PS4 version 4.00 to 4.05, later ports to 3.xx may be possible.
+ <p>
 
 Presenting the PS4webkit project!
 
