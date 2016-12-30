@@ -1,4 +1,4 @@
-![Optimized-Template.png](https://i.ytimg.com/vi/ZvL59xNk4aM/hqdefault.jpg)
+![Optimized-Template.png](https://s29.postimg.org/4lnzca9qf/TEMPLATE.png)
 # PS4Webkit
 
 An attempt to fabricate a webkit exploit for PS4 version 4.00 to 4.05, later ports to 3.xx may be possible
