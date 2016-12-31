@@ -14,7 +14,7 @@ The plan is to develop a webkit/userland exploit with the help of the whole comm
 Simple, if you have any research, write-ups, CVE's, code or anything that could be useful to other contributors, commit it on the github or paste it into the comments on the PSXHAX thread.
 Fork the github, make your changes and then do a pull request to merge.
 
-[Download WebKit for PS4](http://doc.dl.playstation.net/doc/ps4-oss/webkit.html)
+http://doc.dl.playstation.net/doc/ps4-oss/webkit.html
 </p>
 **Are there any rules you need to follow?**
 <p>
