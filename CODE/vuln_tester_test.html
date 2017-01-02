@@ -54,7 +54,7 @@
         throw new RecoverableException(8)
       }
 
-      for (x = attempts.length -1; x >= 1; x--) {
+      for (x = attempts.length -1; x >= 1; x--) { // X = the size of the array -1, so that'd be: 424999; if x (424999) is more or equal to 1 run the following and subtract 1 for each time we fish the loop.
         if (attempts[x].length != 80 / 4) {
           if (attempts[x].length == 0xFFFFFFFF) {
             memory_view = attempts[x];
