@@ -54,7 +54,7 @@
         throw new RecoverableException(8)
       }
 
-      for (x = attempts.lenght -1; x >= 1; x--) {
+      for (x = attempts.length -1; x >= 1; x--) {
         if (attempts[x].length != 80 / 4) {
           if (attempts[x].length == 0xFFFFFFFF) {
             memory_view = attempts[x];
