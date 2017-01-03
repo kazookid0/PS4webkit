@@ -1,4 +1,5 @@
 |FreeBDS:
+    
     Syscalls:
         FreeBSD Syscalls - http://fxr.watson.org/fxr/source/kern/syscalls.master
         FreeBSD 9.2 Syscalls - http://fxr.watson.org/fxr/source/kern/syscalls.master?v=FREEBSD92
@@ -13,6 +14,7 @@
         http://www.cvedetails.com/vulnerability-list/vendor_id-6/cvssscoremin-9/cvssscoremax-/Freebsd.html
 
 |ROP:
+    
     Gadgets:
         ropshell.com/static/txt/96a2319a40350a4526b7e9be31458cd3.txt.gz
         ropshell.com/ropsearch?h=96a2319a40350a4526b7e9be31458cd3&s=stack+pivoting
@@ -23,6 +25,6 @@
         https://github.com/chaitin/pro
 
 |PSN:
+    
     Webkit:
         http://doc.dl.playstation.net/doc/ps4-oss/webkit.html
-
