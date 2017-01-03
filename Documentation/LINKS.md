@@ -1,4 +1,4 @@
-|FreeBDS:
+|FreeBSD:
     
     Syscalls:
         FreeBSD Syscalls - http://fxr.watson.org/fxr/source/kern/syscalls.master
