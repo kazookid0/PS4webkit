@@ -16,8 +16,8 @@
 |ROP:
     
     Gadgets:
-        ropshell.com/static/txt/96a2319a40350a4526b7e9be31458cd3.txt.gz
-        ropshell.com/ropsearch?h=96a2319a40350a4526b7e9be31458cd3&s=stack+pivoting
+        http://ropshell.com/static/txt/96a2319a40350a4526b7e9be31458cd3.txt.gz
+        http://ropshell.com/ropsearch?h=96a2319a40350a4526b7e9be31458cd3&s=stack+pivoting
         http://ropshell.com/ropsearch?h=96a2319a40350a4526b7e9be31458cd3
     
     Framework:
